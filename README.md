@@ -3,6 +3,7 @@ Organized common data science/analysis codes, beginner friendly, including:
 
 - Exploratory Data Analysis (Basic info, distribution, correlation, visualization, etc)
 - Dealing with time series data
+- Interactual visualizaiton with Plotly
 - Using PySpark to deal with big data
 - Data preprocessing (MinMaxScaler|to be covered: Normalizer, StandardScaler, Log)
 - Model training - feature selection
